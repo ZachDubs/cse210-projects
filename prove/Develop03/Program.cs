@@ -15,9 +15,5 @@ class Program
         Reference r2 = new Reference("Proverbs", 3, 5, 6);
         
 
-        
-        
-        
-
     }
 }
